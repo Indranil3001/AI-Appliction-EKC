@@ -28,11 +28,8 @@ The analysis also reveals that the EKC was effectively non-existent before 2012 
 ## Project Structure
 
 ```
-├── data_integration.ipynb       # Merging EDGAR, World Bank, and UN datasets
-├── EDA_and_feature_engg.ipynb   # Exploratory analysis, per-capita variables, income groups
-├── EKC.ipynb                    # Core EKC analysis — regression, turning point, robustness
-├── final_merged_data.csv        # Cleaned merged dataset (167 countries, 1999–2024)
-├── emissions_top30.csv          # Filtered panel — top 30 emitters (780 observations)
+├── Code
+├── Data
 └── README.md
 ```
 
