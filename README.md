@@ -85,13 +85,6 @@ The project includes interactive Plotly charts:
 - **Econometrics** — `statsmodels.OLS` (pooled), `linearmodels.PanelOLS` (fixed effects)
 - **Jupyter Notebook**
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/carbon-economics.git
-cd carbon-economics
-pip install -r requirements.txt
-```
 
 ### Dependencies
 
