@@ -122,4 +122,4 @@ Run the notebooks in order:
 
 ## Author
 
-Infranil (GH1026152)
+Indranil (GH1026152)
